@@ -6,6 +6,6 @@
 
  Technology Used:
 
- HTML: HTML is used to create the frontend of the project.
- CSS : With the help of CSS styling has made to the UI. 
- JAVASCRIPT: It is used to add the functionality to the project.
+ HTML: HTML is used to create the frontend of the project.</br>
+ CSS : With the help of CSS styling has made to the UI. </br>
+ JAVASCRIPT: It is used to add the functionality to the project.</br>
